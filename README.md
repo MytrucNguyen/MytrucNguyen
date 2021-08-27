@@ -1,6 +1,6 @@
-<a href="https://mytrucnguyen.github.io/">![image](https://user-images.githubusercontent.com/80004058/131150822-35845693-190f-4040-a3c3-b4c44876a235.png)</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=60F0D0&size=60&center=true&vCenter=true&multiline=true&width=1500&height=160&lines=Hi+there!;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;My+name+is+Mytruc.;I+like+to+code+and+learn.)](https://git.io/typing-svg)
+<a href="https://mytrucnguyen.github.io/">![banner](https://user-images.githubusercontent.com/80004058/131194064-29c4f65a-3c69-403d-9bac-5d93857db887.gif)</a>
 
 | <img src="https://user-images.githubusercontent.com/80004058/131152889-13b4e08a-fe16-4fde-89e3-ded60427387e.png" width="48"> Life so far... | <img src="https://user-images.githubusercontent.com/80004058/131153412-e703acf7-d305-4913-a420-b94addaafdb3.png" width="48"> Passionate about... | <img src="http://simpleicon.com/wp-content/uploads/light-bulb-5.svg" width="48"> Learning... |
 | :-----: | :-----: | :----: |
