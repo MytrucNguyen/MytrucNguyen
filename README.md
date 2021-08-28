@@ -49,3 +49,5 @@
 ### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MytrucNguyen&langs_count=3&theme=gotham)](https://github.com/MytrucNguyen/github-readme-stats)
 ![MytrucNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MytrucNguyen&show_icons=true&theme=gotham&line_height=27)
+
+![](https://komarev.com/ghpvc/?username=your-github-MytrucNguyen&style=flat-square&color=268E76)
