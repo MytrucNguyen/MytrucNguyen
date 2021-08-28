@@ -3,7 +3,7 @@
 | <img src="https://user-images.githubusercontent.com/80004058/131152889-13b4e08a-fe16-4fde-89e3-ded60427387e.png" width="48"> Life so far... | <img src="https://user-images.githubusercontent.com/80004058/131153412-e703acf7-d305-4913-a420-b94addaafdb3.png" width="48"> Passionate about... | <img src="http://simpleicon.com/wp-content/uploads/light-bulb-5.svg" width="48"> Working On/Learning... |
 | :----- | :----- | :---- |
 |   Working as a Software<br> Engineer Intern in 2021 | Coding | C# and Ruby |
-| Started and Finished<br> Coding Bootcamp in 2021 | Photography | Azure | 
+| Started and finished<br> Coding Bootcamp in 2021 | Photography | Azure | 
 | Started studying <br>Computer Science in 2021 | Music |  | 
 
 ### Languages
