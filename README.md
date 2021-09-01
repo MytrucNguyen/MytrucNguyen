@@ -49,6 +49,14 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Social Media
+<a href="https://www.linkedin.com/in/mytrucnguyen/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://mytrucnguyen.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+<a href="http://soundcloud.com/miichew">![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)</a>
+<a href="https://www.twitch.tv/miichew">![Twitch](https://img.shields.io/badge/MiiChew-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)</a>
+<a href="https://mytruc17.wixsite.com/portfolio">![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)</a>
+
+
 ### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MytrucNguyen&langs_count=3&theme=gotham)](https://github.com/MytrucNguyen/github-readme-stats)
 ![MytrucNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MytrucNguyen&show_icons=true&theme=gotham&line_height=27)
