@@ -2,7 +2,7 @@
 
 | <img src="https://user-images.githubusercontent.com/80004058/131152889-13b4e08a-fe16-4fde-89e3-ded60427387e.png" width="48"> Life so far... | <img src="https://user-images.githubusercontent.com/80004058/131153412-e703acf7-d305-4913-a420-b94addaafdb3.png" width="48"> Passionate about... | <img src="http://simpleicon.com/wp-content/uploads/light-bulb-5.svg" width="48"> Working On/Learning... |
 | :----- | :----- | :---- |
-|   Working as a Software<br> Engineer Intern in 2021 | Coding | C# and TypeScript |
+|   Working as a Software<br> Engineer Intern in 2021 | Coding | C#, TypeScript, Golang |
 | Started and finished<br> Coding Bootcamp in 2021 | Photography | Azure | 
 | Started studying <br>Computer Science in 2021 | Music |  | 
 
@@ -49,6 +49,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ### Social Media
 <a href="https://www.linkedin.com/in/mytrucnguyen/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
