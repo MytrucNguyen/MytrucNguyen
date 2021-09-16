@@ -2,9 +2,9 @@
 
 | <img src="https://user-images.githubusercontent.com/80004058/131152889-13b4e08a-fe16-4fde-89e3-ded60427387e.png" width="48"> Life so far... | <img src="https://user-images.githubusercontent.com/80004058/131153412-e703acf7-d305-4913-a420-b94addaafdb3.png" width="48"> Passionate about... | <img src="http://simpleicon.com/wp-content/uploads/light-bulb-5.svg" width="48"> Working On/Learning... |
 | :----- | :----- | :---- |
-|   Working as a Software<br> Engineer Intern in 2021 | Coding | C#, TypeScript, Golang |
-| Started and finished<br> Coding Bootcamp in 2021 | Photography | Azure | 
-| Started studying <br>Computer Science in 2021 | Music |  | 
+| Started and finished<br> Coding Bootcamp in 2021 | Coding | C#, TypeScript, Golang |
+| Started studying <br>Computer Science in 2021 | Photography | Azure | 
+| Working as a Software<br> Engineer Intern in 2021| Music |  | 
 
 ### Languages
 
@@ -60,7 +60,7 @@
 
 
 ### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MytrucNguyen&langs_count=3&theme=gotham)](https://github.com/MytrucNguyen/github-readme-stats)
-![MytrucNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MytrucNguyen&show_icons=true&theme=gotham&line_height=27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MytrucNguyen&langs_count=4&theme=gotham)](https://github.com/MytrucNguyen/github-readme-stats)
+![MytrucNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MytrucNguyen&show_icons=true&theme=gotham&line_height=34)
 
 ![](https://komarev.com/ghpvc/?username=your-github-MytrucNguyen&style=flat-square&color=268E76)
