@@ -4,7 +4,8 @@
 | :----- | :----- | :---- |
 | Started and finished<br> Coding Bootcamp in 2021 | Coding | TypeScript, Golang |
 | Started studying <br>Computer Science in 2021 | Photography | Azure | 
-| Working as a Software<br> Engineer Intern in 2021| Music |  | 
+| Worked as a Software<br> Engineer Intern in 2021| Music |  | 
+| Working as a Software<br> Engineer in 2021 | | |
 
 ### Languages
 
