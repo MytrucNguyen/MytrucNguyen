@@ -2,10 +2,11 @@
 
 | <img src="https://user-images.githubusercontent.com/80004058/131152889-13b4e08a-fe16-4fde-89e3-ded60427387e.png" width="48"> Life so far... | <img src="https://user-images.githubusercontent.com/80004058/131153412-e703acf7-d305-4913-a420-b94addaafdb3.png" width="48"> Passionate about... | <img src="http://simpleicon.com/wp-content/uploads/light-bulb-5.svg" width="48"> Working On/Learning... |
 | :----- | :----- | :---- |
-| Finished Coding Bootcamp<br> in 2021 | Coding | TypeScript, Golang |
-| Started Studying Computer Science<br> in 2021 | Photography | Azure | 
-| Worked as a Software Engineer Intern<br> in 2021| Music |  | 
-| Working as a Software Engineer<br> in 2021 | | |
+| Working as a Software Engineer in 2021 |Photography |TypeScript, Golang|
+| Worked as a Software Engineer Intern in 2021| Music | Azure | 
+| Started Studying Computer Science in 2021 | Coding |  | 
+| Finished Coding Bootcamp in 2021 |  |  |
+
 
 ### Languages
 
