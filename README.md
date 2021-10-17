@@ -4,8 +4,8 @@
 | :----- | :----- | :---- |
 | Working as a Software Engineer in 2021 |Photography |TypeScript, Golang|
 | Worked as a Software Engineer Intern in 2021| Music | Azure | 
-| Started Studying Computer Science in 2021 | Coding |  | 
-| Finished Coding Bootcamp in 2021 | Gaming | Japanese |
+| Started Studying Computer Science in 2021 | Coding | Japanese | 
+| Finished Coding Bootcamp in 2021 | Gaming |  |
 
 
 ### Languages
