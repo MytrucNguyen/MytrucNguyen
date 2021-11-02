@@ -2,7 +2,7 @@
 
 | <img src="https://user-images.githubusercontent.com/80004058/131152889-13b4e08a-fe16-4fde-89e3-ded60427387e.png" width="48"> <br>Life so far... | <img src="https://user-images.githubusercontent.com/80004058/131153412-e703acf7-d305-4913-a420-b94addaafdb3.png" width="48"> <br> Passionate about... | <img src="http://simpleicon.com/wp-content/uploads/light-bulb-5.svg" width="48"> <br>Working On/Learning... |
 | :----- | :----- | :---- |
-| Finished Coding Bootcamp in 2021 | Gaming | TypeScript, Golang, Tailwind CSS, Deno|
+| Finished Coding Bootcamp in 2021 | Gaming | Golang, Deno|
 | Started Studying Computer Science in 2021 | Coding | Azure, AWS, CompTIA Security+ | 
 | Worked as a Software Engineer Intern in 2021| Music | Japanese | 
 | Working as a Software Engineer in 2021 |Photography |  |
@@ -28,6 +28,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Junit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON%20web%20tokens)
