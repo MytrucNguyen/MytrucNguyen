@@ -5,7 +5,7 @@
 | Finished Coding Bootcamp in 2021 | Gaming | Deno, Swift, Kotlin, C++ |
 | Started Studying Computer Science in 2021 | Coding | Azure, AWS, CompTIA Security+, Unity | 
 | Worked as a Software Engineer Intern in 2021| Music | Japanese | 
-| Working as a Software Engineer in 2021 |Photography |  |
+| Working as a Software Engineer in 2021 |Photography | Figma, Adobe XD |
 
 ### Languages
 
