@@ -8,7 +8,7 @@
 | Finished Coding Bootcamp in 2021 | Gaming | C# |
 | Worked as a Software Engineer Intern in 2021| Music | Azure | 
 | Working as a Software Engineer in 2021 |Photography | AWS   |
-| - | Coding | CompTIA Security+ | 
+| - | Coding | CyberSecurity | 
 
 
 ### Languages
