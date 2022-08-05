@@ -1,4 +1,4 @@
-<a href="https://mytrucnguyen.github.io/">![banner](https://user-images.githubusercontent.com/80004058/131194064-29c4f65a-3c69-403d-9bac-5d93857db887.gif)</a>
+<a href="https://mytrucnguyen.github.io/">![banner](https://user-images.githubusercontent.com/80004058/183111710-1c90741b-4572-42db-ab04-12dede6e9a24.png)</a>
 
 ### Hello World! 
 
