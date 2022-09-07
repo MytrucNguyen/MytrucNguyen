@@ -2,7 +2,6 @@
 
 ### Hello World! 
 
-I'm Mytruc! Thank you for stopping by. 
 <br>
 
 ### Languages
