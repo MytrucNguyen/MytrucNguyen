@@ -22,6 +22,6 @@ Want to know more about me? [Check out my portfolio]([https://www.abdulfarhan.co
 | ![Mytruc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mytrucnguyen&show_icons=true&theme=city_lights) | ![Mytruc's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mytrucnguyen&theme=city-lights) |
 | :---: | :---: |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabdul88&theme=city_lights) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mytrucnguyen&theme=city_lights) |
 | :---: |
 
