@@ -19,7 +19,7 @@ Want to know more about me? [Check out my portfolio]([https://www.abdulfarhan.co
 |   ![Mytruc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mytrucnguyen&theme=rogue)
 | :---: |
 
-| ![Mytruc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mytrucnguyen&show_icons=true&theme=city_lights) | ![Mytruc's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mytrucnguyen&theme=city-lights) |
+| ![Mytruc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mytrucnguyen&show_icons=true&theme=city_lights) |  [![GitHub Streak](https://streak-stats.demolab.com?user=mytrucnguyen&theme=city-lights&hide_border=true)](https://git.io/streak-stats)  |
 | :---: | :---: |
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mytrucnguyen&theme=city_lights) |
