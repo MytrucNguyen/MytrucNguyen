@@ -2,10 +2,8 @@
 
 ### Hello World! 
 
-I'm Mytruc, I'm a passionate Software Developer with over three years of experience specializing in creating user-friendly and efficient applications. My detail-oriented approach, combined with rapid learning abilities, consistently driven projects to successful outcomes. My background in the service industry has endowed me with a keen sense of customer service and teamwork, enabling me to infuse my software solutions with a user-centric perspective.
+I'm Mytruc, a dedicated Software Engineer with over three years of experience, specializing in building web applications using React and TypeScript. At my current company, I focus on delivering user-friendly, efficient solutions tailored to business needs. My background in the service industry has honed my customer service and teamwork skills, allowing me to approach software development with a strong user-centric focus.
 <br>
-
-Want to know more about me? [Check out my portfolio]([https://www.abdulfarhan.com](https://mytrucnguyen.dev/))
 
 | Programming Lang | Frameworks, Platforms and Libraries |
 | :--- | :--- |
