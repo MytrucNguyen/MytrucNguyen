@@ -20,6 +20,4 @@ I'm Mytruc, a dedicated Front End Engineer with over three years of experience, 
 | ![Mytruc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mytrucnguyen&show_icons=true&theme=city_lights) |  [![GitHub Streak](https://streak-stats.demolab.com?user=mytrucnguyen&theme=city-lights&hide_border=true)](https://git.io/streak-stats)  |
 | :---: | :---: |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mytrucnguyen&theme=city_lights) |
-| :---: |
 
