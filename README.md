@@ -13,11 +13,14 @@ I'm Mytruc, a dedicated Front End Engineer with over three years of experience, 
 | **Hosting** | **Design**|
 |![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)| ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)|
 
+
 ### GitHub Stats
-|   ![Mytruc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mytrucnguyen&theme=rogue)
-| :---: |
+![Mytruc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mytrucnguyen&theme=tokyo-night) 
 
-| ![Mytruc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mytrucnguyen&show_icons=true&theme=city_lights) |  [![GitHub Streak](https://streak-stats.demolab.com?user=mytrucnguyen&theme=city-lights&hide_border=true)](https://git.io/streak-stats)  |
-| :---: | :---: |
-
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mytrucnguyen&theme=city-lights&hide_border=true" alt="GitHub Streak" style="width: 100%; height: 200px;">
+</div>
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mytrucnguyen&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" style="width: 48%; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mytrucnguyen&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" style="width: 48%; height: 200px;">
+</div>
