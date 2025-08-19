@@ -2,7 +2,7 @@
 
 ## Hello World! 
 
-I'm Mytruc, a dedicated Front End Engineer with over three years of experience, specializing in building web applications using React, TypeScript, Next.js, and Playwright. At my current company, I focus on delivering user-friendly, efficient solutions tailored to business needs. My background in the service industry has honed my customer service and teamwork skills, allowing me to approach software development with a strong user-centric focus.
+I'm Mytruc, a dedicated Front End Engineer with over five years of experience, specializing in building web applications using React, TypeScript, Next.js, and Playwright. At my current company, I focus on delivering user-friendly, efficient solutions tailored to business needs. My background in the service industry has honed my customer service and teamwork skills, allowing me to approach software development with a strong user-centric focus.
 <br>
 
 | Programming Languages | Frameworks, Platforms and Libraries |
